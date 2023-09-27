@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there  I'm SHREYASH👋
+##I'm soon to be FULL STACK JAVA/WEB DEVELOPER
 
-
-**sgavali-dev/sgavali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +15,4 @@ Core Java,HTML 5,CSS,PYTHON.
 
 ### Socials 🔗
 
-<a href=”https://www.linkedin.com/in/sgavali-dev/"><img align=”left” src=”https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/001-instagram.png" alt=”icon | Instagram” width=”21px”/></a>
+
