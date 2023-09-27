@@ -17,4 +17,4 @@ Core Java,HTML 5,CSS,PYTHON.
 
 ### Socials 🔗
 
-<a href=”https://www.linkedin.com/in/sgavali-dev/"><img align=”left” src=”https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/sgavali-dev/"><img align=”left” src=”https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/001-instagram.png" alt=”icon | Instagram” width=”21px”/></a>
