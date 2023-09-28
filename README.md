@@ -18,7 +18,7 @@ Core Java,HTML 5,CSS,PYTHON.
   
 </head>
 <body>
-  <a href=”https://www.linkedin.com/in/shreyash-gavali"><img align=”left” src=”https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/002-linkedin.png" alt=”icon | LinkedIn” width=”50px”/><small>Linked In</small></a>
+  <a href="https://www.linkedin.com/in/shreyash-gavali"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/002-linkedin.png" alt="icon | LinkedIn" width="50px"/><small>Linked In</small></a>
 </body>
   
 </html>
