@@ -1,5 +1,5 @@
 ### Hi there  I'm SHREYASH👋
-### I'm soon to be FULL STACK JAVA/WEB DEVELOPER
+
 
 ## 
 
