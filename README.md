@@ -12,7 +12,7 @@ Core Java,HTML 5,CSS,PYTHON.
 - 😄 Pronouns:He/Him.
 
 
-### Socials 🔗
+### Socials 
 <html>
 <head>
   
