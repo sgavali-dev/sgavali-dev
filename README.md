@@ -4,11 +4,19 @@
 ## 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-Core Java,HTML 5,CSS,PYTHON.
+- 🌱 Languages i've learnt:
+<body>
+  <div style="width: 50%; justify-items:center">
+   <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/C.png" alt="icon | C" width="22px">
+    <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Html5.png" alt="icon | Html5" width="22px">
+     <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Css3.png" alt="icon | Css" width="22px">
+      <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Java.png" alt="icon | Java" width="22px">
+       <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Python.png" alt="icon | Python" width="22px">
+  </div>
+</body>
+<br><br>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about :-C,DATA STRUCTURES,JAVA,MYSQl,PYTHON,HTML,CSS.
 - 😄 Pronouns:He/Him.
 
 
