@@ -3,7 +3,7 @@
 
 ## 
 
-- 🔭 I’m currently working on <small> Portfolio website</small>
+- 🔭 I’m currently working on <small> My Personal  Portfolio website</small>
 - 🌱 Languages i've learnt:
 <body>
   <div style="width: 50%; justify-items:center">
@@ -27,7 +27,7 @@
 </head>
 <body>
   <a href="https://www.linkedin.com/in/shreyash-gavali"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/002-linkedin.png" alt="icon | LinkedIn" width="22px"/></a>
-  <a href="https://www.instagram.com/its_just_shreeeee"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/001-instagram.png" alt="icon | LinkedIn" width="22px"/></a>
+  <a href="https://www.instagram.com/its_just_shreeeee"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/001-instagram.png" alt="icon | Instagram" width="22px"/></a>
 </body>
   
 </html>
