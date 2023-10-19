@@ -1,5 +1,5 @@
-### Hi there  I'm SHREYASH👋
-
+### Hi there  I'm SHREYASH GAVALI👋
+<small>| Web |Dev|</small>
 
 ## 
 
