@@ -3,7 +3,7 @@
 <h4>| C | Java | Python | HTML | CSS |</h4>
 ## 
 
-- 🔭 I’m currently working on <small> My Personal  Portfolio website</small>
+- 🔭 I’m currently working on <small> Full Stack Development</small>
 - 🌱 Languages i've learnt:
 <body>
   <div style="width: 50%; justify-items:center">
