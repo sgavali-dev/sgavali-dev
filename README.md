@@ -1,6 +1,6 @@
 ### Hi there  I'm SHREYASH GAVALI👋
-<small>| Web |Dev|</small>
-
+<h3>| Web | Dev|</h3>
+<h4>| C | Java | Python | HTML | CSS |</h4>
 ## 
 
 - 🔭 I’m currently working on <small> My Personal  Portfolio website</small>
