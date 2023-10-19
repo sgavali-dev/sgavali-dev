@@ -1,4 +1,8 @@
-### Hi there  I'm SHREYASH GAVALI👋
+<html>
+<head>
+</head>
+<body>
+<h2>Hi there  I'm SHREYASH GAVALI👋</h2
 <h3>| Web | Dev|</h3>
 <h4>| C | Java | Python | HTML | CSS |</h4>
 ## 
@@ -21,10 +25,6 @@
 
 
 ### Socials 
-<html>
-<head>
-  
-</head>
 <body>
   <a href="https://www.linkedin.com/in/shreyash-gavali"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/002-linkedin.png" alt="icon | LinkedIn" width="22px"/></a>
   <a href="https://www.instagram.com/its_just_shreeeee"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/001-instagram.png" alt="icon | Instagram" width="22px"/></a>
