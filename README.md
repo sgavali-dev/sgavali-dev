@@ -3,7 +3,7 @@
 </head>
 <body>
 <h2>Hi there  I'm SHREYASH GAVALI👋</h2
-<h3 style="color: #001d3d">| Website And App Development</h3>
+<h3 style="color: #001d3d">| Website And App Development |</h3>
 <h4>| C | Java | Python | HTML | CSS |</h4>
 ## 
 
@@ -19,8 +19,6 @@
   </div>
 </body>
 <br><br>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 😄 Pronouns:He/Him.
 
 
