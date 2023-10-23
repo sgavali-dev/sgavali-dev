@@ -3,7 +3,7 @@
 </head>
 <body>
 <h2>Hi there  I'm SHREYASH GAVALI👋</h2
-<h3>| Web | Dev|</h3>
+<h3 style="color: blue">| Website And App Development</h3>
 <h4>| C | Java | Python | HTML | CSS |</h4>
 ## 
 
