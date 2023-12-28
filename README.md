@@ -3,14 +3,14 @@
 </head>
 <body>
 <h2>Hi there  I'm SHREYASH GAVALI👋</h2
-<h3 style="color: #001d3d">| Website And App Development |</h3>
-<h4>| C | Java | Python | HTML | CSS |</h4>
-## 
+<h3 style="color: #001d3d">Developing  Websites And Apps for a living </h3><br><br>
 
-- 🔭 I’m currently working on <small> Full Stack Development</small>
-- 🌱 Languages i've learnt:
+
+
+ 🔭 I’m currently working on <small> Full Stack Development</small><br><br><br>
 <body>
   <div style="width: 50%; justify-items:center">
+    <h3>** Tech Stack **</h3>
    <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/C.png" alt="icon | C" width="22px">
     <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Html5.png" alt="icon | Html5" width="22px">
      <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Css3.png" alt="icon | Css" width="22px">
