@@ -1,34 +1,17 @@
-<html>
-<head>
-</head>
-<body>
-<h2>Hi there  I'm SHREYASH GAVALI👋</h2
-<h3 style="color: #001d3d">Developing  Websites And Apps for a living </h3><br><br>
+<h1 align="center">Hi 👋, I'm Shreyash Gavali</h1>
+<h3 align="center">A passionate frontend developer from Pune,In</h3>
 
+- 📫 How to reach me **shreyashgavali21@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreyash-gavali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash-gaval" height="30" width="40" /></a>
+<a href="https://instagram.com/its_just_shreeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_just_shreeeee" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@shreyashgavali21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shreyashgavali21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreyash-gavali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyash-gavali" height="30" width="40" /></a>
+</p>
 
- 🔭 I’m currently working on <small> Full Stack Development</small><br><br><br>
-<body>
-  <div style="width: 50%; justify-items:center">
-    <h3>** Tech Stack **</h3>
-   <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/C.png" alt="icon | C" width="22px">
-    <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Html5.png" alt="icon | Html5" width="22px">
-     <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Css3.png" alt="icon | Css" width="22px">
-      <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Java.png" alt="icon | Java" width="22px">
-       <img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/Python.png" alt="icon | Python" width="22px">
-  </div>
-</body>
-<br><br>
-- 😄 Pronouns:He/Him.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-### Socials 
-<body>
-  <a href="https://www.linkedin.com/in/shreyash-gavali"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/002-linkedin.png" alt="icon | LinkedIn" width="22px"/></a>
-  <a href="https://www.instagram.com/its_just_shreeeee"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/001-instagram.png" alt="icon | Instagram" width="22px"/></a>
-  <a href="https://twitter.com/Shree21134748"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/icons8-twitterx-50.png" alt="icon | Twitter" width="22px" style="background-color: #ffff;"/></a>
-  <a href="mailto:shreyashgavali21@gmail.com"><img align="left" src="https://raw.githubusercontent.com/sgavali-dev/sgavali-dev/main/images/icons8-email-50.png" alt="icon | Mail" width="22px"/></a>
-</body>
-  
-</html>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-gavali&show_icons=true&locale=en" alt="shreyash-gavali" /></p>
