@@ -25,6 +25,7 @@
    ![C](https://img.shields.io/badge/C-rgb(101,154,210)?style=for-the-badge&logoColor=00000)
    ![Java](https://img.shields.io/badge/Java-rgb(237,32,36)?style=for-the-badge&logoColor=00000)
    ![PYTHON](https://img.shields.io/badge/PYTHON-rgb(255,232,114)?style=for-the-badge)
+   ![PHP](https://img.shields.io/badge/PHP-rgb(120,125,181)?style=for-the-badge)
 
 
 ![Database](https://img.shields.io/badge/Database-00000?style=for-the-badge) 
