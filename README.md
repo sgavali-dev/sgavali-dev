@@ -43,6 +43,7 @@
 
 ##
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-gavali&show_icons=true&locale=en" alt="shreyash-gavali" /></p>
-
+<br>
+<img src="https://raw.githubusercontent.com/Shreyash-Gavali/Shreyash-Gavali/output/snake.svg" alt="Snake animation" />
 
 
