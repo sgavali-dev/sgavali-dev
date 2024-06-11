@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shreyash Gavali</h1>
-<h3 align="center">A passionate frontend developer from Pune,In</h3>
 
 - 📫 How to reach me **shreyashgavali21@gmail.com**
 
