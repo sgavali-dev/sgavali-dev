@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on:<br>Learning Spring Boot and React JS<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Spring, React JS</p>
+<p align="left">🔭 I’m currently working on:<br>Backend Development<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Spring, React JS</p>
 
 ###
 
